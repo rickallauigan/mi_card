@@ -10,7 +10,7 @@ class Main extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        backgroundColor: Colors.teal,
+        backgroundColor: Colors.blueAccent.shade200,
         body: SafeArea(
             child: Center(
           child: Column(
@@ -23,7 +23,7 @@ class Main extends StatelessWidget {
                     AssetImage("assets/images/RODERICK_ALLAUIGAN.jpg"),
               ),
               Text(
-                "Roderick Allauigan",
+                "Rick Allauigan",
                 style: TextStyle(
                     fontFamily: 'Pacifico',
                     fontWeight: FontWeight.bold,
@@ -36,14 +36,14 @@ class Main extends StatelessWidget {
                     fontFamily: 'SourceSansPro',
                     fontWeight: FontWeight.bold,
                     fontSize: 20,
-                    color: Colors.teal.shade100,
+                    color: Colors.white,
                     letterSpacing: 2),
               ),
               SizedBox(
                 height: 30,
                 width: 400,
                 child: Divider(
-                  color: Colors.teal.shade900,
+                  color: Colors.white,
                 ),
               ),
               Card(
@@ -53,11 +53,12 @@ class Main extends StatelessWidget {
                   child: ListTile(
                     leading: Icon(
                       Icons.phone,
+                      color: Colors.blueAccent.shade700,
                     ),
                     title: Text(
-                      "+63930 202 1088",
+                      "+63 930 123 4567",
                       style: TextStyle(
-                        color: Colors.teal.shade900,
+                        color: Colors.blueAccent.shade700,
                         fontFamily: "SourceSansPro",
                         fontSize: 20,
                       ),
@@ -70,11 +71,14 @@ class Main extends StatelessWidget {
                 margin: EdgeInsets.symmetric(vertical: 0, horizontal: 10),
                 child: Center(
                     child: ListTile(
-                  leading: Icon(Icons.email),
+                  leading: Icon(
+                    Icons.email,
+                    color: Colors.blueAccent.shade700,
+                  ),
                   title: Text(
                     "allauigan.rick@gmail.com",
                     style: TextStyle(
-                      color: Colors.teal.shade900,
+                      color: Colors.blueAccent.shade700,
                       fontFamily: "SourceSansPro",
                       fontSize: 20,
                     ),

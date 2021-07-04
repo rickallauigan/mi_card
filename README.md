@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![alt text](https://github.com/imrickrick/mi_card/blob/master/assets/images/RODERICK_ALLAUIGAN.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
