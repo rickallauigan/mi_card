@@ -1,18 +1,10 @@
-# mi_card
+# MI Card
 
-A new Flutter project.
+### Description
 
-![alt text](https://github.com/imrickrick/mi_card/blob/master/assets/images/RODERICK_ALLAUIGAN.jpg)
+- This is my very first Flutter project.
+- A sample mi card that gives you a contact of me(Rick Allauigan)
 
-## Getting Started
+### Screenshot
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![sample screenshot](https://github.com/imrickrick/mi_card/blob/master/assets/images/blueAccent.png)
