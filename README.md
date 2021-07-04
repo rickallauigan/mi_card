@@ -7,4 +7,4 @@
 
 ### Screenshot
 
-![sample screenshot](https://github.com/imrickrick/mi_card/blob/master/assets/images/blueAccent.png)
+![sample screenshot](https://github.com/imrickrick/mi_card/blob/master/assets/images/Screen_Shot_2021-07-04.png)
